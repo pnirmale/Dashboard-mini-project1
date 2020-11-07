@@ -1,0 +1,9 @@
+scikit-learn==0.22.1
+matplotlib>=1.4.3
+pandas>=0.19
+numpy>=1.9.2
+PIL
+altair
+time
+pickle
+streamlit
