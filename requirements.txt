@@ -3,6 +3,4 @@ matplotlib>=1.4.3
 pandas>=0.19
 numpy>=1.9.2
 altair
-time
-pickle
 streamlit
